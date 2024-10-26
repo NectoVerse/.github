@@ -9,4 +9,4 @@
 **Obfuscation:** Nectoverse will always open-source thier scripts in thier repository even if the loadstring is chained to the obfuscated folder file. Nectohub, nectoverse script's open-source forever BUT on 26/10/2024, Owner announced that NectoHub will no longer be open-source but any other scripts by NectoVerse will be  open-source.🖤
 
 
-** Brought to you by NectoVerse **
+**Brought to you by NectoVerse**
